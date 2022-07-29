@@ -1,5 +1,5 @@
 # nginx-test
-NGINX test with Dockerfile.
+NGINX test with Dockerfile.and commit.
 
 # How to build
 docker build -t testnginx:0.1 .
